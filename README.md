@@ -1,4 +1,5 @@
 # Account Simulator (C#)
+![Account Simulator Screenshot](account-simulator-ui.png)
 
 A C# WinForms application that simulates a basic bank account.
 
