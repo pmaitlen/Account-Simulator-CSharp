@@ -4,6 +4,8 @@
 🔗 **View the source code:**  
 https://github.com/pmaitlen/Account-Simulator-CSharp
 
+https://github.com/pmaitlen/Account-Simulator-CSharp/blob/main/BankAccount.cs
+
 A C# WinForms application that simulates a basic bank account.
 
 ## Features
